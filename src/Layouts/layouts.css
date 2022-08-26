@@ -14,7 +14,7 @@
   line-height: 22px;
   color: #ffffff;
   margin-left: 3%;
-  margin-bottom:3px;
+  margin-bottom: 3px;
   flex-direction: row;
 }
 .HeaderText-2 {
@@ -31,8 +31,8 @@
   margin-top: 14px;
   margin-bottom: 14px;
 }
-.div-Divider1{
-    width: 100%;
+.div-Divider1 {
+  width: 100%;
 }
 .div-Divider2 {
   display: flex;
@@ -47,4 +47,47 @@
   margin-top: 17px;
   margin-bottom: 14px;
   margin-left: 1%;
+}
+.noschedule-Image-Text {
+  position: absolute;
+  width: 442px;
+  height: 21px;
+  left: 35.4%;
+  top: 54.4%;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  /* display: flex; */
+  /* align-items: center; */
+  /* text-align: center; */
+  letter-spacing: 0.03em;
+  color: #000000;
+
+  color: #000000;
+}
+.footer-container {
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 130%;
+  background: #fbfbfb;
+  padding: 0.5% 25.6% 0.5% 33%;
+  display: flex;
+  flex-direction: row;
+}
+.footer-text {
+  margin-left: 15%;
+}
+.main-container {
+  margin: 35px 122px 89px;
+}
+.title {
+  display: flex;
+  flex-direction: row;
+}
+.title-text {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
+  margin-left: 19px;
 }

@@ -1,0 +1,14 @@
+.create-button{
+    background: #5375E2;
+    border: 10px solid #5375E2;
+    border-radius: 10px;
+    padding: 12.77px 22.14px;
+    margin: -35px 120px;
+}
+.create-button-text{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    /* margin-left: 22.72px; */
+}
