@@ -8,8 +8,8 @@ const App = () =>{
     return (
         <div>
             <Header/>
-            <Form_Create_Schedule/>
-            {/* <NoSchedule/> */}
+            {/*  <Form_Create_Schedule/>  */}
+            <NoSchedule/>
             <Footer/>
         </div>
     )
